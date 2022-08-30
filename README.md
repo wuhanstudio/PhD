@@ -8,4 +8,4 @@
 
 <center><h2><a href="https://wuhanstudio.uk"> Research Website</a></h2></center>
 
-![](abstract.png)
+![](src/abstract.png)
