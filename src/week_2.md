@@ -1,7 +1,7 @@
-# Week 1
+# Week 2
 
 > 2022/09/12 - 2022/09/18
 
 
 
-Submission for ICRA 2023
+Submission for ICRA 2023.
