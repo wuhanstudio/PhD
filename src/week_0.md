@@ -6,9 +6,9 @@
 
 Three draft papers for ICRA 2023: 
 
-- **Adversarial Driving**: Attacking End-to-End Autonomous Driving
-- **Adversarial Detection**: Attacking Object Detection in Real Time
-- **Man-in-the-Middle Attack** against Object Detection
+- **Adversarial Driving**: Attacking End-to-End Autonomous Driving.
+- **Adversarial Detection**: Attacking Object Detection in Real Time.
+- **Man-in-the-Middle Attack** against Object Detection.
 
 
 
@@ -18,8 +18,8 @@ Three draft papers for ICRA 2023:
 
 One draft paper for MLSys 2023:
 
-- Distributed Black-box Attack for Image Classification Cloud Services
+- **Distributed Black-box Attack** against Image Classification Cloud Services.
 
 
 
-> **The MLSys 2023 paper submission deadline is 15 October 2022.**
+> **The MLSys 2023 paper submission deadline is 28 October 2022.**
