@@ -52,8 +52,8 @@ For black-box attacks against cloud services:
     - Limited Query (2018)
     - Bandits (2019)
 
-**Week 3**: The Draft for MLSys 2023.
+**Week 3**: The Draft for MLSys 2023. (Methodology)
 
-**Week 4**: The Draft for MLSys 2023.
+**Week 4**: The Draft for MLSys 2023. (Experiment)
 
 **Week 5**: Revision & Submission.
