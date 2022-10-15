@@ -26,6 +26,10 @@
 
 ⑦ Coming soon.
 
-⑧ Interpretable Machine Learning for COVID-19.
+⑧ A Wihte-box Adversarial Toolbox (WHAT).
 
-⑨ Coming soon.
+⑨ A Black-box Adversarial Toolbox (BAT).
+
+🄋 Interpretable Machine Learning for COVID-19.
+
+⑩ Coming soon.
