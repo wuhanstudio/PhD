@@ -6,7 +6,7 @@ Most experiments were completed.
 
 
 
-## 1. Preprocessing
+## 1. Pre-processing
 
 **Experiment Settings:**
 
@@ -27,7 +27,7 @@ Most experiments were completed.
 
 
 
-**Before Preprocessing (Local):**
+**Before Pre-processing (Local):**
 
 
 | Attack  | Avg. Queries |       |        | Attack Success Rate |        |        | Total Queries |        |        |
@@ -42,12 +42,12 @@ Most experiments were completed.
 **After Preprocessing (Cloud):**
 
 
-| Attack  | Avg. Queries |        |      | Attack Success Rate |        |      | Total Queries |         |      |
-| :-----: | :----------: | :----: | :--: | :-----------------: | :----: | :--: | :-----------: | :-----: | :--: |
-|         |      I       |   R    |  V   |          I          |   R    |  V   |       I       |    R    |  V   |
-|  SimBA  |              |        |      |                     |        |      |               |         |      |
-| Square  |    290.50    | 194.15 |      |       83.01%        | 92.15% |      |    222,000    | 138,700 |      |
-| Bandits |              |        |      |                     |        |      |               |         |      |
+| Attack  | Avg. Queries |        |        | Attack Success Rate |        |        | Total Queries |         |         |
+| :-----: | :----------: | :----: | :----: | :-----------------: | :----: | :----: | :-----------: | :-----: | :-----: |
+|         |      I       |   R    |   V    |          I          |   R    |   V    |       I       |    R    |    V    |
+|  SimBA  |              |        |        |                     |        |        |               |         |         |
+| Square  |    290.50    | 194.15 | 223.60 |       83.01%        | 92.15% | 88.30% |    222,000    | 138,700 | 1451,00 |
+| Bandits |              |        |        |                     |        |        |               |         |         |
 
 
 
@@ -81,23 +81,23 @@ Distributed queries (8 workers):
 
 **3.1 Non-Distributed:**
 
-| Attack  | Avg. Queries |      |      | Attack Success Rate |      |      | Total Queries |      |      | Time (min) |      |      |
-| :-----: | :----------: | :--: | :--: | :-----------------: | :--: | :--: | :-----------: | :--: | :--: | :--------: | :--: | :--: |
-|         |      I       |  R   |  V   |          I          |  R   |  V   |       I       |  R   |  V   |     I      |  R   |  V   |
-|  SimBA  |              |      |      |                     |      |      |               |      |      |            |      |      |
-| Square  |              |      |      |                     |      |      |               |      |      |            |      |      |
-| Bandits |              |      |      |                     |      |      |               |      |      |            |      |      |
+| Attack  | Avg. Queries |        |        | Attack Success Rate |        |        | Total Queries |        |        | Time (min) |      |      |
+| :-----: | :----------: | :----: | :----: | :-----------------: | :----: | :----: | :-----------: | :----: | :----: | :--------: | :--: | :--: |
+|         |      I       |   R    |   V    |          I          |   R    |   V    |       I       |   R    |   V    |     I      |  R   |  V   |
+|  SimBA  |              |        |        |                     |        |        |               |        |        |            |      |      |
+| Square  |              | 200.10 | 227.60 |                     | 93.33% | 91.89% |               | 15,400 | 16,800 |            |  81  | 175  |
+| Bandits |              |        |        |                     |        |        |               |        |        |            |      |      |
 
 
 
 **3.2 Horizontal Distribution:**
 
-| Attack  | Avg. Queries |       |       | Attack Success Rate |        |        | Total Queries |        |        | Time (min) |       |       |
-| :-----: | :----------: | :---: | :---: | :-----------------: | :----: | :----: | :-----------: | :----: | :----: | :--------: | :---: | :---: |
-|         |      I       |   R   |   V   |          I          |   R    |   V    |       I       |   R    |   V    |     I      |   R   |   V   |
-|  SimBA  |              |       |       |                     |        |        |               |        |        |            |       |       |
-| Square  |    359.8     | 204.7 | 222.8 |       78.21%        | 93.33% | 90.54% |    28,000     | 15,400 | 16,500 |   48.14    | 24.40 | 57.93 |
-| Bandits |              |       |       |                     |        |        |               |        |        |            |       |       |
+| Attack  | Avg. Queries |       |       | Attack Success Rate |        |        | Total Queries |        |        | Time (min) |      |      |
+| :-----: | :----------: | :---: | :---: | :-----------------: | :----: | :----: | :-----------: | :----: | :----: | :--------: | :--: | :--: |
+|         |      I       |   R   |   V   |          I          |   R    |   V    |       I       |   R    |   V    |     I      |  R   |  V   |
+|  SimBA  |              |       |       |                     |        |        |               |        |        |            |      |      |
+| Square  |    359.8     | 204.7 | 222.8 |       78.21%        | 93.33% | 90.54% |    28,000     | 15,400 | 16,500 |     48     |  24  |  58  |
+| Bandits |              |       |       |                     |        |        |               |        |        |            |      |      |
 
 
 
