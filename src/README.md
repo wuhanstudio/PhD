@@ -26,7 +26,7 @@
 
 ⑦ Coming soon.
 
-⑧ A Wihte-box Adversarial Toolbox (WHAT).
+⑧ A WHite-box Adversarial Toolbox (WHAT).
 
 ⑨ A Black-box Adversarial Toolbox (BAT).
 
