@@ -12,7 +12,7 @@ Three Demo Videos for ICRA 2023.
 
 <br />
 
-Three draft papers for ICRA 2023: 
+Three Draft Papers for ICRA 2023: 
 
 - Adversarial Driving: [https://arxiv.org/abs/2103.09151](https://arxiv.org/abs/2103.09151)
 
@@ -24,7 +24,7 @@ Three draft papers for ICRA 2023:
 
 <br />
 
-One draft paper for MLSys 2023:
+One Draft Paper for MLSys 2023:
 
 - **Distributed Black-box Attack** against Image Classification Cloud Services.
 
