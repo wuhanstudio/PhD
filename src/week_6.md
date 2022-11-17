@@ -6,7 +6,7 @@
 
 Textbook (Sutton & Barto):
 
-- [Reinforcement Learning](https://d3c33hcgiwev3.cloudfront.net/Ph9QFZnEEemRfw7JJ0OZYA_808e8e7d9a544e1eb31ad11069d45dc4_RLbook2018.pdf?Expires=1667692800&Signature=KMhnD1SmIEXRpDP6zUkubT5VeAfNntE-BXkChPSwzEZd8WsZsBFizRr9JBX1G39Yri21IWsNULOzhs1cEJta5RFYvhbsmhkadWFw5smDfPyMjzgYzK0NL~Ng5H-rpaXpG2wKtkZMCKlMIi77fUPEc2~dCtedqhFy29lSkERUlUU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [Reinforcement Learning](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
 Online Courses:
 
