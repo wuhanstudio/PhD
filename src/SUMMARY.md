@@ -15,6 +15,9 @@
 - [Week 6](./week_6.md)
 - [Week 7](./week_7.md)
 - [Week 8](./week_8.md)
+
+# Travel
+
 - [Week 9](./week_9.md)
 - [Week 10](./week_10.md)
 - [Week 11](./week_11.md)
