@@ -30,6 +30,6 @@
 
 ⑨ A Black-box Adversarial Toolbox (BAT).
 
-🄋 Interpretable Machine Learning for COVID-19.
+<!-- 🄋 Interpretable Machine Learning for COVID-19. -->
 
 ⑩ Coming soon.
