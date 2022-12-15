@@ -4,4 +4,4 @@
 
 ## Travel
 
-- Visiting Scholar at [SUSTech](https://www.sustech.edu.cn/en/)
+- Visiting Student at [SUSTech](https://www.sustech.edu.cn/en/)
