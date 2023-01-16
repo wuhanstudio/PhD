@@ -2,11 +2,13 @@
 
 > 2023/01/09 - 2023/01/15
 
+
 ## Multi-Agent Connected Autonomous Driving (MACAD)
 
-[https://github.com/praveen-palanisamy/macad-gym](https://github.com/praveen-palanisamy/macad-gym)
+- A Review: [https://arxiv.org/abs/2203.07676](https://arxiv.org/abs/2203.07676)
+- An RL env: [https://github.com/praveen-palanisamy/macad-gym](https://github.com/praveen-palanisamy/macad-gym)
 
-**OpenAI Gym environment**
+### OpenAI Gym environment
 
 - Environments: 
 
@@ -34,3 +36,9 @@
 - [HER (2017)](https://arxiv.org/abs/1707.01495)
 - [SAC (2018)](https://proceedings.mlr.press/v80/haarnoja18b)
 - [TD3 (2019)](https://spinningup.openai.com/en/latest/algorithms/td3.html)
+
+
+## Other Platforms
+
+- [https://github.com/oxwhirl/smac](https://github.com/oxwhirl/smac)
+- [https://github.com/facebookresearch/nocturne](https://github.com/facebookresearch/nocturne)
