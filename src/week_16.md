@@ -8,6 +8,7 @@
 - A Review: [https://arxiv.org/abs/2203.07676](https://arxiv.org/abs/2203.07676)
 - An RL env: [https://github.com/praveen-palanisamy/macad-gym](https://github.com/praveen-palanisamy/macad-gym)
 
+
 ### OpenAI Gym environment
 
 - Environments: 
@@ -23,6 +24,7 @@
 
 ![](imgs/macad-gym.png)
 
+
 ## RL Methods
 
 **Baseline**
@@ -33,6 +35,7 @@
 
 **Advanced**
 
+- TRPO & PPO (2017)
 - [HER (2017)](https://arxiv.org/abs/1707.01495)
 - [SAC (2018)](https://proceedings.mlr.press/v80/haarnoja18b)
 - [TD3 (2019)](https://spinningup.openai.com/en/latest/algorithms/td3.html)
