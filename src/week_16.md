@@ -27,19 +27,26 @@
 
 ## RL Methods
 
-**Baseline**
+### Baseline
+
+Discrete Action Space:
 
 - [Deep Q (2013)](https://arxiv.org/abs/1312.5602)
+- [A2C / A3C (2016)](https://arxiv.org/abs/1602.01783)
+
+Continuous Action Space:
+
 - [DDPG (2015)](https://arxiv.org/abs/1509.02971)
-- [A3C (2016)](https://arxiv.org/abs/1602.01783)
+- [TRPO & PPO (2017)](https://www.andrew.cmu.edu/course/10-703/slides/Lecture_NaturalPolicyGradientsTRPOPPO.pdf)
 
-**Advanced**
+### Advanced
 
-- TRPO & PPO (2017)
-- [HER (2017)](https://arxiv.org/abs/1707.01495)
+Continuous Action Space:
+
 - [SAC (2018)](https://proceedings.mlr.press/v80/haarnoja18b)
 - [TD3 (2019)](https://spinningup.openai.com/en/latest/algorithms/td3.html)
 
+<!-- - [HER (2017)](https://arxiv.org/abs/1707.01495) -->
 
 ## Other Platforms
 
