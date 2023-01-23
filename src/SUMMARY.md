@@ -31,3 +31,4 @@
 
 - [Week 0](./week_15.md)
 - [Week 1](./week_16.md)
+- [Week 2](./week_17.md)
