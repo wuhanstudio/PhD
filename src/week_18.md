@@ -7,7 +7,7 @@
 IEEE Conference 
 
 - Paper Submission Deadline: February 01, 2023.
-- Page Limit: at most 8 pages.
+- Page Limit: At most 8 pages.
 
 Re-structured two manuscripts:
 
