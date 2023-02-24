@@ -36,3 +36,4 @@
 - [Week 4](./week_19.md)
 - [Week 5](./week_20.md)
 - [Week 6](./week_21.md)
+- [Week 7](./week_22.md)
