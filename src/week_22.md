@@ -44,6 +44,42 @@
 <br/>
 - May. WHAT & BAT (Resubmission)
 
+## HPC ( JADE 2 Cluster )
+
+Hartree Centre Login
+
+[https://um.hartree.stfc.ac.uk/hartree/login.jsp](https://um.hartree.stfc.ac.uk/hartree/login.jsp)
+
+The Slurm Scheduler
+
+[https://docs.jade.ac.uk/en/latest/jade/scheduler/](https://docs.jade.ac.uk/en/latest/jade/scheduler/)
+
+<br/>
+
+Allocate a temporary node with 8 GPUS:
+
+```
+srun --gres=gpu:8 --pty bash
+```
+
+Allocate a small partition with 1 GPU:
+
+```
+srun --gres=gpu:1 -p small --pty bash
+
+# 20 CPU Cores / 40 Threads
+# 32 GB VRAM / 512 GB RAM
+```
+
+Submit and monitor jobs:
+
+```
+sbatch
+sacct
+squeue
+scancel
+```
+
 ## Deep Q Network
 
 - Double DQN
