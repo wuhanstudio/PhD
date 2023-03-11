@@ -9,7 +9,7 @@
 <br/>
 - **Mar. Object Tracking**  
 <br/>
-- Apr. Man-in-theMiddle - WHAT (Resubmission)  
+- Apr. Man-in-the-Middle - WHAT (Resubmission)  
 - May. Distributed Black-Box - BAT (Resubmission)  
 
 ## Adversarial Tracking
