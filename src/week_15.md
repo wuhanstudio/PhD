@@ -6,4 +6,4 @@
 
 - **Milestone 1**: Reinforcement Learning: Is reinforcement-learning-based end-to-end driving model secure?  
 - **Milestone 2**: Adversarial Tracking: Real-time adversarial attacks against Object Tracking.  
-- **Milestone 3**: Adversarial Patch: Physical patch in the Carla.
+- **Milestone 3**: Adversarial Patch: Physical Patch in Carla Simulator.
