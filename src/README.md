@@ -16,19 +16,29 @@
 
 ② Adversarial Detection: Attacking Object Detection in Real Time.
 
-③ Man-in-the-Middle Attack against Object Detection System.
+--------------------
+
+③ A Man-in-the-Middle Attack against Object Detection System.
 
 ④ Distributed Black-box Attack against Image Classification.
 
+---------------------
+
 ⑤ Coming soon.
 
-⑥ Coming soon.
+--------------------
 
-⑦ Coming soon.
+⑥ Adversarial Tracking: Real-time Adversarial Attacks against Object Tracking.
+
+⑦ Adversarial Patch: Physical Patch in Carla Simulator.
+
+--------------------
 
 ⑧ A WHite-box Adversarial Toolbox (WHAT).
 
 ⑨ A Black-box Adversarial Toolbox (BAT).
+
+--------------------
 
 <!-- 🄋 Interpretable Machine Learning for COVID-19. -->
 
