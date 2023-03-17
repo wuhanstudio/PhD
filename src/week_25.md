@@ -14,29 +14,25 @@
 
 ## Research Papers
 
-**Papers Accepted** (x3):
-
-- IEEE Trans on AI  
-    -  Interpretable Machine Learning for COVID-19  
-
-- IEEE Intelligent Vehicle  
-    - Adversarial Driving: Attacking End-to-End Autonomous Driving System  
-    - Adversarial Detection: Attacking Object Detection in Real Time  
+**Papers Accepted** (x3): 
+    - Interpretable Machine Learning for COVID-19, IEEE Trans on AI.  
+    - Adversarial Driving: Attacking End-to-End Autonomous Driving System, IEEE Intelligent Vehicle.    
+    - Adversarial Detection: Attacking Object Detection in Real Time, IEEE Intelligent Vehicle.    
 
 **Papers to be submitted** (x2):
 
-- A Man-in-the-Middle Attack against Object Detection System  
-- Distributed Black-box Attack against Image Classification Cloud Services  
+- A Man-in-the-Middle Attack against Object Detection System.  
+- Distributed Black-box Attack against Image Classification Cloud Services.  
 
 **Papers to be written** (x2):
 
-- Adversarial Tracking: Real-time Adversarial Attacks against Object Tracking  
-- Adversarial Patch: Physical Patch in Carla Simulator  
+- Adversarial Tracking: Real-time Adversarial Attacks against Object Tracking.  
+- Adversarial Patch: Physical Patch in Carla Simulator.  
 
 **Undetermined** (x2):
 
-- Reinforcement Learning  
-- Interpretation and Defence  
+- Reinforcement Learning.  
+- Interpretation and Defence.  
 
 
 ## Adversarial Tracking
