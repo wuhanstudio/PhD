@@ -14,7 +14,8 @@
 
 ## Research Papers
 
-**Papers Accepted** (x3): 
+**Papers Accepted** (x3):
+
     - Interpretable Machine Learning for COVID-19, IEEE Trans on AI.  
     - Adversarial Driving: Attacking End-to-End Autonomous Driving System, IEEE Intelligent Vehicle.    
     - Adversarial Detection: Attacking Object Detection in Real Time, IEEE Intelligent Vehicle.    
