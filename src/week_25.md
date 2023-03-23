@@ -42,5 +42,5 @@
 
 [●] Object Tracking (Computer Vision)  
 [●] Vehicle Tracking (Autonomous Driving)  
-[ &nbsp; ] Adversarial Attacks  
-[ &nbsp; ] Research Proposal  
+[ &nbsp; ] Adversarial Tracking  
+[ &nbsp; ] Adversarial Patch  
