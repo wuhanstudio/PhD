@@ -41,3 +41,4 @@
 - [Week 9](./week_24.md)
 - [Week 10](./week_25.md)
 - [Week 11](./week_26.md)
+- [Week 12](./week_27.md)
