@@ -8,7 +8,7 @@
 
 # ICRA
 
-- [Week 0](./week_0.md)
+- [Summer](./week_0.md)
 
 # MLSys
 
@@ -33,9 +33,9 @@
 - [Week 13](./week_13.md)
 - [Week 14](./week_14.md)
 
----
-
 # 2023
+
+---
 
 - [Week 0](./week_15.md)
 - [Week 1](./week_16.md)
@@ -67,3 +67,4 @@
 - [Week 15](./week_30.md)
 - [Week 16](./week_31.md)
 - [Week 17](./week_32.md)
+- [Week 18](./week_33.md)
