@@ -25,6 +25,9 @@
 [ &nbsp; ] Flight Tickets  
 [●] Accommodation  
 
+[ &nbsp; ] Adversarial Driving (oral)  
+[ &nbsp; ] Adversarial Detection (poster)  
+
 ## BMVC 2023
 
 [●] The third-year report  
