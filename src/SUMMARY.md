@@ -69,6 +69,7 @@
 - [Week 17](./week_32.md)
 - [Week 18](./week_33.md)
 - [Week 19](./week_34.md)
+- [Week 20](./week_35.md)
 
 # Talk
 
