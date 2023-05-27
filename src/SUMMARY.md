@@ -73,4 +73,6 @@
 
 # Talk
 
+- [Week 21](./week_36.md)
+
 # Tracking
