@@ -22,13 +22,13 @@
 
 [●] The US Visa Application  
 
-[ &nbsp; ] Flight Tickets  
-[●] Accommodation  
+[x] Flight Tickets  
+[x] Accommodation  
 
 [●] Adversarial Driving (oral)  
 [●] Adversarial Detection (poster)  
 
-[ &nbsp; ] Substitute Presenters  
+[●] Substitute Presenters  
 
 ## BMVC 2023
 
