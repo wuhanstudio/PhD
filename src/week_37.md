@@ -11,6 +11,8 @@
 <br />
 - [Carla Leaderboard](https://github.com/carla-simulator/leaderboard)  
 - [Open SCENARIO](https://github.com/carla-simulator/scenario_runner)  
+<br />
+- [LAV Driving Model](https://dotchen.github.io/LAV/)  
 
 ## Target Model
 
