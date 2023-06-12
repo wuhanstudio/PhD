@@ -2,6 +2,10 @@
 
 > 2023/06/05 - 2023/06/11
 
+## Research Plan
+
+- Jun. Adversarial Tracking  
+
 ## Environment
 
 - Carla 0.9.14  
@@ -11,6 +15,8 @@
 <br />
 - [Carla Leaderboard](https://github.com/carla-simulator/leaderboard)  
 - [Open SCENARIO](https://github.com/carla-simulator/scenario_runner)  
+<br />
+- [LAV Driving Model](https://dotchen.github.io/LAV/)  
 
 ## Target Model
 
