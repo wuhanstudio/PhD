@@ -4,8 +4,8 @@
 
 ## Carla API
 
-- https://github.com/wuhanstudio/carla-tutorial
-- https://blog.wuhanstudio.uk/blog/carla-tutorial
+- [https://github.com/wuhanstudio/carla-tutorial](https://github.com/wuhanstudio/carla-tutorial)
+- [https://blog.wuhanstudio.uk/blog/carla-tutorial](https://blog.wuhanstudio.uk/blog/carla-tutorial)
 
 ## Presentation
 
