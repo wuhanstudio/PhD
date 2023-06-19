@@ -15,6 +15,7 @@
 ## Related Work
 
 - [Learning from All Vehicles](https://arxiv.org/abs/2203.11934)
-- [Multimodal 3D Object Detection from Simulated Pretraining](https://arxiv.org/abs/1905.07754)
-- [Joint Monocular 3D Vehicle Detection and Tracking](https://arxiv.org/abs/1811.10742)
-- [Monocular Quasi-Dense 3D Object Tracking](https://arxiv.org/abs/2103.07351)
+
+<br />
+
+<img src="imgs/LAV.svg" />
