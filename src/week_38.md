@@ -10,7 +10,7 @@
 ## Presentation
 
 - Third-Year Mini Viva (Thursday, 22nd June)
-- PGR Conference (Friday, 23rd June)
+- [PGR Conference](files/ESE_PGR_2023.pdf) (Friday, 23rd June)
 
 ## Related Work
 
