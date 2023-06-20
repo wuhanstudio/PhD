@@ -7,12 +7,7 @@
 - [https://github.com/wuhanstudio/carla-tutorial](https://github.com/wuhanstudio/carla-tutorial)
 - [https://blog.wuhanstudio.uk/blog/carla-tutorial](https://blog.wuhanstudio.uk/blog/carla-tutorial)
 
-## Presentation
-
-- Third-Year Mini Viva (Thursday, 22nd June)
-- [PGR Conference](files/ESE_PGR_2023.pdf) (Friday, 23rd June)
-
-## Related Work
+## Reading
 
 - [Learning from All Vehicles](https://arxiv.org/abs/2203.11934)
 
