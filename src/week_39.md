@@ -10,3 +10,6 @@
 ## Reading
 
 - [Multimodal 3D Object Detection from Simulated Pretraining](https://arxiv.org/abs/1905.07754)  
+
+<br />
+<img src="imgs/research.svg" />
