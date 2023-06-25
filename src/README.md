@@ -28,9 +28,9 @@
 
 --------------------
 
-⑥ Adversarial Tracking: Real-time Adversarial Attacks against Object Tracking.
+⑥ Adversarial Tracking: Real-time Adversarial Attacks against Object Tracking. [[Proposal]](files/Adversarial_Tracking.pdf)
 
-⑦ Adversarial Patch: Physical Patch in Carla Simulator.
+⑦ Adversarial Patch: Physical Patch in Carla Simulator. [[Proposal]](files/Adversarial_Patch.pdf)
 
 --------------------
 
