@@ -10,6 +10,6 @@ Current Progress:
 - Problem 2: From 3D global coordinates to 2D image coordinates  
 <br />
 - **Problem 3: From 2D Bounding Boxes to 3D Bounding Boxes**  
+- **Problem 4: How can we do multi-object tracking?**  
 <br />
-- Problem 4: How can we do multi-object tracking?  
 - Problem 5: How can we generate UAPs?  
