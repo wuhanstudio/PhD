@@ -2,7 +2,7 @@
 
 > 2023/07/24 - 2023/07/30
 
-- BMVC (21st Aug. 2023)
+- BMVC (21st Aug. 2023)  
 <br />
 - IEEE Transactions on AI  
 - AAAI Workshop (18th Aug. 2023)  
