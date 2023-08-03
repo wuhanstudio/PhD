@@ -4,7 +4,7 @@
 
 2D Detection:
 
-- YOLOv8
+- YOLO
 - SSD
 - Faster RCNN
 
