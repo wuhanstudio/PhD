@@ -5,8 +5,8 @@
 - BMVC (21st Aug. 2023)  
 <br />
 - IEEE Transactions on AI  
-- AAAI Workshop (18th Aug. 2023)  
 <br />
+- AAAI Workshop (9th Dec. 2023)  
 - IEEE Symposium on Security and Privacy (12th Dec. 2023)  
 <br />
 - ICLR Tiny Paper (Feb. 2024)  
