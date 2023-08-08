@@ -93,9 +93,9 @@
 
 - [Week 30](./week_45.md)
 
-# Summer Break
+# Vacation
 
-
+- [Summer](./week_50.md)
 
 # UAPs
 
