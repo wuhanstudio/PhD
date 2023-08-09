@@ -40,6 +40,6 @@
 
 --------------------
 
-<!-- 🄋 Interpretable Machine Learning for COVID-19. -->
+🄋 Interpretable Machine Learning for COVID-19. [[Paper]](https://arxiv.org/abs/2010.02006)
 
 ⑩ Coming soon.
