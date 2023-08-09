@@ -8,7 +8,7 @@
 
 <center><h2><a href="https://wuhanstudio.uk"> Research Website</a></h2></center>
 
-![](overview.jpg)
+![](overview.png)
 
  <br />
 
@@ -41,5 +41,3 @@
 --------------------
 
 🄋 Interpretable Machine Learning for COVID-19. [[Paper]](https://arxiv.org/abs/2010.02006)
-
-⑩ Coming soon.
