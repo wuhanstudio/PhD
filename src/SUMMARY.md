@@ -94,6 +94,7 @@
 - [Week 30](./week_45.md)
 - [Week 31](./week_46.md)
 - [Week 32](./week_47.md)
+- [Week 33](./week_48.md)
 
 # Vacation
 
