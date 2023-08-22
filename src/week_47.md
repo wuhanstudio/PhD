@@ -4,8 +4,8 @@
 
 Deep SORT:
 
-- Feature Pyramid Network  
-- Siamese Neural Network  
+- **Feature Pyramid Network**  
+- **Siamese Neural Network**  
 <br />
 - Kalman Filter  
 <br />
