@@ -11,3 +11,7 @@ Deep SORT:
 <br />
 - Jonker–Volgenant Algorithm   
 - Hungarian Algorithm  
+
+<hr />
+
+[![](imgs/deep-sort.png)](https://github.com/heejae1213/object_tracking_deepsort)
