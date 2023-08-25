@@ -10,7 +10,7 @@ Deep SORT:
 - Kalman Filter  
 <br />
 - Jonker–Volgenant Algorithm   
-- Hungarian Algorithm  
+- Hungarian Algorithm **(Matching Cascade)**  
 
 <hr />
 
