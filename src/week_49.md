@@ -2,6 +2,8 @@
 
 > 2023/08/28 - 2023/09/03
 
+Unsolved Problems:
+
 - Pedestrian Detection / Vehicle Detection
 - CARLA Dataset / KITTI Dataset  
 - 3D Detection  
