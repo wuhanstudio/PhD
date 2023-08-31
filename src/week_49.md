@@ -13,3 +13,9 @@ Solutions:
 - Both Person and Vehicle ReID: [Model Zoo](https://github.com/JDAI-CV/fast-reid/blob/master/MODEL_ZOO.md).  
 - Bag of Tricks (**BoT**), Bag of Freebies (**BoF**), Bag of Specials (**BoS**)  
 - MOT Dataset / CARLA Demo  
+
+Three Deep Learning Models:
+
+- 2D Object Detection
+- Pedestrian / Vehicle ReID
+- 3D Bounding Boxes
