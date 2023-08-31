@@ -14,8 +14,16 @@ Solutions:
 - Bag of Tricks (**BoT**), Bag of Freebies (**BoF**), Bag of Specials (**BoS**)  
 - MOT Dataset / CARLA Demo  
 
+<hr />
+
 Three Deep Learning Models:
 
-- 2D Object Detection
-- Pedestrian / Vehicle ReID
-- 3D Bounding Boxes
+- 2D Object Detection (MS COCO)  
+- Pedestrian / Vehicle ReID (ImageNet)  
+- 3D Bounding Boxes (KITTI)  
+
+<hr />
+
+Source Code:
+
+[https://github.com/wuhanstudio/2d-carla-tracking](https://github.com/wuhanstudio/2d-carla-tracking)  
