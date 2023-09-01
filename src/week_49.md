@@ -20,7 +20,7 @@ Three Deep Learning Models:
 
 - 2D Object Detection (MS COCO)  
 - Pedestrian / Vehicle ReID (ImageNet)  
-- 3D Bounding Boxes [Position, Dimention, Orientation] (KITTI)  
+- 3D Bounding Boxes [Position, Dimension, Orientation] (KITTI)  
 
 <hr />
 
