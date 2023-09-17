@@ -9,3 +9,10 @@ October:
 <br />
 - Adversarial Tracking: Digital UAP  
 - Adversarial Patch: Physical UAP  
+
+Conferences:
+
+- Dec: IEEE Symposium on Security and Privacy (U.S.)  
+- Dec: AAAI Conference on Artificial Intelligence (Canada)  
+- Feb: ICLR (Vienna)  
+- Jul: The ACM WORKSHOP ON ARTIFICIAL INTELLIGENCE AND SECURITY  
