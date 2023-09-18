@@ -15,4 +15,4 @@ Conferences:
 - Dec: IEEE Symposium on Security and Privacy (U.S.)  
 - Dec: AAAI Conference on Artificial Intelligence (Canada)  
 - Feb: ICLR (Vienna)  
-- Jul: The ACM WORKSHOP ON ARTIFICIAL INTELLIGENCE AND SECURITY  
+- Jul: The ACM Workshop on AI And Security  
