@@ -12,7 +12,7 @@ October:
 
 Conferences:
 
-- Dec: IEEE Symposium on Security and Privacy (U.S.)  
-- Dec: AAAI Conference on Artificial Intelligence (Canada)  
-- Feb: ICLR (Vienna)  
-- Jul: The ACM Workshop on AI And Security  
+- Dec: [Practical Deep Learning in the Wild Workshop](https://aaai-23.aaai.org/ws23workshops/#ws24) (AAAI Canada)  
+- Feb: [7th Deep Learning Security Aand Privacy Workshop](https://dls2023.ieee-security.org) (IEEE S&P U.S.)  
+- Feb: [ICLR Workshop](https://iclr.cc/Conferences/2024/CallForWorkshops) (Vienna)  
+- Jul: [17th ACM Workshop on AI And Security](https://aisec.cc/) (ACM CCS).  
