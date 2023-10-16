@@ -4,7 +4,7 @@
 
 Strong SORT:
 
-- **YOLOX-X**  
+- **YOLOX**  
 <br />
 - Feature Pyramid Network  
 - Siamese Neural Network  
