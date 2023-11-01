@@ -15,11 +15,11 @@
 
 |         HOTA                | KITTI |                         CARLA      |
 | :---------------------- | :---: | :---------------------------------------------------: |
-|Ground Truth  |   100.00   |             |
-|Ground Truth (Strong SORT)  |  93.72    |                |
-|Ground Truth (Deep SORT)  |   85.55  |           |
-|Ground Truth (SORT) |  84.62     |   |
-| **CWIT** |  **66.31**     |   |
-|YOLO (Strong SORT)  |  55.17  |               |
-|YOLO (Deep SORT)  |   51.99   |           |
-|YOLO (SORT) |    50.63   |   |
+|Ground Truth  |   100.00   |    100.00         |
+|Ground Truth (Strong SORT)  |  93.72    |     89.32           |
+|Ground Truth (Deep SORT)  |   85.55  |     82.70      |
+|Ground Truth (SORT) |  84.62     |  84.07  |
+| **CWIT** |  **66.31**     |  -   |
+|YOLO (Strong SORT)  |  55.17  |     42.59          |
+|YOLO (Deep SORT)  |   51.99   |    41.48       |
+|YOLO (SORT) |    50.63   |    40.50    |
