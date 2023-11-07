@@ -113,3 +113,4 @@
 - [Week 4](./week_53.md)
 - [Week 5](./week_54.md)
 - [Week 6](./week_55.md)
+- [Week 7](./week_56.md)
