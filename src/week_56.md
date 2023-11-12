@@ -29,7 +29,7 @@
 |YOLOX (Strong SORT)         |   54.50    |     58.77      |
 |YOLOX (Deep SORT)           |   52.54    |     55.75      |
 |YOLOX (SORT)                |   50.94    |     56.00      |
-|         -                  |     -      |      -         |
+|         &nbsp;             |            |                |
 |YOLO (OC SORT)              |   53.38    |     57.99      |
 |YOLO (Strong SORT)          |   55.17    |     59.49      |
 |YOLO (Deep SORT)            |   51.99    |     56.65      |
