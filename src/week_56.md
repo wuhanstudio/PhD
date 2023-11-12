@@ -20,11 +20,11 @@
 |Ground Truth (Strong SORT)  |   93.72    |     91.19      |
 |Ground Truth (Deep SORT)    |   85.55    |     82.49      |
 |Ground Truth (SORT)         |   84.62    |     82.11      |
-|     **3D Lidar**           |     -      |      -         |
+|     **3D Lidar**           |            |                |
 |PermaTrack (OC-SORT)        |   76.50    |      -         |
-|   **Stereo Camera**        |     -      |      -         |
+|   **Stereo Camera**        |            |                |
 |  CWIT                      |   66.31    |      -         |
-|   **Single Camera**        |     -      |      -         |
+|   **Single Camera**        |            |                |
 |YOLOX (OC SORT)             |   52.84    |     59.37      |
 |YOLOX (Strong SORT)         |   54.50    |     58.77      |
 |YOLOX (Deep SORT)           |   52.54    |     55.75      |
