@@ -25,10 +25,10 @@
 |   **Stereo Camera**        |            |                |
 |  CWIT                      |   66.31    |      -         |
 |   **Single Camera**        |            |                |
-|YOLOX (OC SORT)             |   52.84    |     59.37      |
-|YOLOX (Strong SORT)         |   54.50    |     58.77      |
-|YOLOX (Deep SORT)           |   52.54    |     55.75      |
-|YOLOX (SORT)                |   50.94    |     56.00      |
+|YOLOX (OC SORT)             |   53.78    |     60.40      |
+|YOLOX (Strong SORT)         |   54.30    |     59.60      |
+|YOLOX (Deep SORT)           |   52.82    |     56.97      |
+|YOLOX (SORT)                |   51.32    |     57.01      |
 |         &nbsp;             |            |                |
 |YOLO (OC SORT)              |   53.38    |     57.99      |
 |YOLO (Strong SORT)          |   55.17    |     59.49      |
