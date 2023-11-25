@@ -1,4 +1,4 @@
-# Universal Adversarial Perturbations
+# Week 7
 
 > 2023/11/06 - 2023/11/12
 

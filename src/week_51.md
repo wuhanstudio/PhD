@@ -1,4 +1,4 @@
-# Universal Adversarial Perturbations
+# Week 2
 
 > 2023/10/02 - 2023/10/08
 

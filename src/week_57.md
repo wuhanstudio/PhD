@@ -1,4 +1,4 @@
-# Universal Adversarial Perturbations
+# Week 8
 
 > 2023/11/13 - 2023/11/19
 
