@@ -7,15 +7,15 @@
 - Digital Perturbation
     - [x] Adversarial Driving
     - [x] Adversarial Detection
-    - [?] Man-in-the-Middle Attack
-    - [?] Adversarial Tracking
+    - [•] Man-in-the-Middle Attack
+    - [&nbsp;] Adversarial Tracking
 
 - Physical Perturbation
-    - [?] Adversarial Patch
+    - [&nbsp;] Adversarial Patch
 
 #### 2. Black-box Adversarial Toolbox
 
-- [?] Distributed Black-box Attack ([AISec - ACM CCS](https://aisec.cc/))
+- [•] Distributed Black-box Attack ([AISec - ACM CCS](https://aisec.cc/))
 
 #### 3. Model Interpretation
 
