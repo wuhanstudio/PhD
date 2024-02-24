@@ -3,7 +3,7 @@
 > University of Exeter
 
 **Student**: Han Wu  
-**Supervisors**: Prof. Johan Wahlström and Prof. Sareh Rowlands  
+**Supervisors**: Dr. Johan Wahlström and Dr. Sareh Rowlands  
 **Expected completion date**: 24/May/2024  
 
 <center><h2><a href="https://wuhanstudio.uk"> Research Website</a></h2></center>
