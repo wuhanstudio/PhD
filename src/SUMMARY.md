@@ -144,4 +144,4 @@
 - [Week 5](./week_67.md)
 - [Week 6](./week_68.md)
 
-# PhD Thesis
+# Ph.D. Thesis
