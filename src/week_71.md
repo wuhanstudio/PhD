@@ -6,11 +6,11 @@
 <!-- -->
 - Chapter 2: Adversarial Driving (Published x1)  
 - Chapter 3: Adversarial Detection (Published x1) & Man-in-the-Middle Attack (Major Revision x1)  
-- Chapter 4: Adversarial Tracking  (One-page proposal + Preliminary results)  
+<!-- -->
+- Chapter 4: Adversarial Tracking  ([Proposal](https://phd.wuhanstudio.uk/files/Adversarial_Tracking.pdf))  
 <!-- -->
 - Chapter 5: Distributed Black-box Attack (Manuscript x1)  
-<!-- -->
 - Chapter 6: Inpterpretation and Defence (Published x2)  
-- Chapter 7: Adversarial Patch (Future Research)  
 <!-- -->
+- Future Research: Adversarial Patch ([Proposal](https://phd.wuhanstudio.uk/files/Adversarial_Patch.pdf))  
 - Summary  
