@@ -12,5 +12,5 @@
 - Chapter 5: Distributed Black-box Attack (Manuscript x1)  
 - Chapter 6: Inpterpretation and Defence (Published x2)  
 <!-- -->
-- Future Research: Adversarial Patch ([Proposal](https://phd.wuhanstudio.uk/files/Adversarial_Patch.pdf))  
 - Summary  
+- Future Research: Adversarial Patch ([Proposal](https://phd.wuhanstudio.uk/files/Adversarial_Patch.pdf))  
