@@ -5,7 +5,7 @@
 - Introduction  
 <!-- -->
 - Chapter 2: Adversarial Driving (Published x1)  
-- Chapter 3: Adversarial Detection (Published x1) & Man-in-the-Middle Attack (Major Revision x1)  
+- Chapter 3: Adversarial Detection (Published x1) & Man-in-the-Middle Attack (Minor Revision x1)  
 <!-- -->
 - Chapter 4: Adversarial Tracking  ([Proposal](https://phd.wuhanstudio.uk/files/Adversarial_Tracking.pdf))  
 <!-- -->
