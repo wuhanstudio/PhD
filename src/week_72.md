@@ -6,12 +6,11 @@
 
 [●] University Logo and Header  
 [●] [GitHub Repo: Fix compilation errors](https://github.com/wuhanstudio/phd-thesis)  
-
 [●] Restructure figures and sections  
+
+[&nbsp;] Abstact and Introduction  
 [&nbsp;] Published papers and manuscripts  
+[&nbsp;] Summary and Future Research  
 
-[&nbsp;] Introduction  
 [&nbsp;] Adversarial Tracking  
-
-[&nbsp;] Abstact and Summary  
 [&nbsp;] Acknowledgements  
