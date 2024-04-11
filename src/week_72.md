@@ -7,7 +7,7 @@
 [●] University Logo and Header  
 [●] [GitHub Repo: Fix compilation errors](https://github.com/wuhanstudio/phd-thesis)  
 
-[&nbsp;] Restructure figures and sections  
+[●] Restructure figures and sections  
 [&nbsp;] Published papers and manuscripts  
 
 [&nbsp;] Introduction  
