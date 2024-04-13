@@ -8,7 +8,7 @@
 [●] [GitHub Repo: Fix compilation errors](https://github.com/wuhanstudio/phd-thesis)  
 [●] Restructure figures and sections  
 
-[&nbsp;] Abstact and Introduction  
+[●] Abstact and Introduction  
 [&nbsp;] Published papers and manuscripts  
 [&nbsp;] Summary and Future Research  
 
