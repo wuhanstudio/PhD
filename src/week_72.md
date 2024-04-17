@@ -9,7 +9,7 @@
 [●] Restructure figures and sections  
 
 [●] Abstact and Introduction  
-[&nbsp;] Published papers and manuscripts  
+[●] Published papers and manuscripts  
 
 [&nbsp;] Summary and Future Research  
 [&nbsp;] Acknowledgements  
