@@ -11,5 +11,5 @@
 [●] Abstact and Introduction  
 [●] Published papers and manuscripts  
 
-[&nbsp;] Summary and Future Research  
+[●] Summary and Future Research  
 [&nbsp;] Acknowledgements  
