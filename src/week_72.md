@@ -12,5 +12,5 @@
 [●] Published papers and manuscripts  
 [●] Summary and Future Research  
 
-[&nbsp;] Acknowledgements  
-[&nbsp;] Revision  
+[●] Acknowledgements  
+[●] Revision  
