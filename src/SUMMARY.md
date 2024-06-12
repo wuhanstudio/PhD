@@ -157,4 +157,5 @@
 
 # Ph.D. Viva
 
-- [July](./week_74.md)
+- [June](./week_74.md)
+- [July](./week_75.md)
